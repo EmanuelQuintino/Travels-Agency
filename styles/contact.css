@@ -11,6 +11,7 @@
     --green-2: #03ce65;
     --green-3: #2FE085;
     --green-4: #2FE08588;
+    --green-5: #0db55f;
 }
 
 main {
@@ -115,7 +116,7 @@ form button {
 }
 
 form button:hover {
-    filter: brightness(1.1);
+    background: var(--green-5);
 }
 
 .contact-card {
