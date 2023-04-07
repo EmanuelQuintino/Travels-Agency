@@ -7,5 +7,16 @@
 </p>
 
 <p>
-  Foi abordado o conteúdo de Semântica, Lista, Tabela, Formulário, Flex, Grid e as propriedades relativas de cada um, além do conceito de Mobile First e técnicas de responsividade.
+  Foi abordado o conteúdo de:
+</p>
+
+- Semântica 
+- Lista
+- Tabela 
+- Formulário
+- Flex 
+- Grid
+
+<p>
+  Mais as propriedades relativas de cada um, além do conceito de Mobile First e Técnicas de Responsividade.
 </p>
