@@ -1,6 +1,6 @@
 # Travels-Agency
 
-<img height="320em" src="https://emanuelquintino.github.io/Page-WDC/images/screenSiteTravel.png" alt="image">
+<img src="https://emanuelquintino.github.io/Page-WDC/images/screenSiteTravel.png" alt="image">
 
 <p> 
   Site criado com os alunos do curso de Desenvolvimento Web para conclusão dos módulos de HTML e CSS. 
